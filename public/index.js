@@ -1,4 +1,4 @@
-const socket = io.connect("")
+const socket = io.connect("https://linktoqr-fz8x.onrender.com")
 
 const text = document.getElementById('text');
 const sub = document.getElementById('sub');
